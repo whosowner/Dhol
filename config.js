@@ -28,7 +28,7 @@ module.exports = {
   musicardTheme:"themes16", //Goes from themes1 to themes19
   activityName: "/help", // This is bot status Write Anything here 
   activityType: "Playing",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/9DUjYBt5AM",
   CheckmarkIcon: "https://cdn.discordapp.com/emojis/819446784647757834.gif",
   MusicIcon:"https://cdn.discordapp.com/emojis/763415718271385610.gif",
   embedTimeout: 5,  // Timeout before the button interaction embeds are deleted ( Default - 5 seconds)
